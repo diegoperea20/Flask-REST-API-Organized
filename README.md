@@ -6,4 +6,4 @@ Flask REST API with sqlalchemy mysql   where you create title and description.(f
 ```python
 python main.py
 ```
-![Step1](example-REST.PNG)
+![Step1](example-REST.png)
